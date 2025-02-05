@@ -1,3 +1,4 @@
+live demo =>https://eng-bxi.github.io/easybank-landing-page-master/
 # Frontend Mentor - Easybank landing page
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
